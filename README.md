@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrichch&label=Profile%20views&color=0e75b6&style=flat" alt="aldrichch" /> </p>
 
-- 🔭 I’m currently working on **ESH and Sustainable Finance**
+- 🔭 I’m currently working on **ESG and Sustainable Finance**
 
 - 🌱 I’m currently learning **Financial Data Analytics**
 
