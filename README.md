@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **aldrichsierra03@gmail.com**
 
+- 📄 Know about my experiences [https://aldrichch.github.io/portfolio/](https://aldrichch.github.io/portfolio/)
+
 - ⚡ Fun fact **I can't drive car**
 
 <h3 align="left">Connect with me:</h3>
