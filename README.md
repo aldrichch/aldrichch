@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **ESG and Sustainable Finance**
 
-- 🌱 I’m currently learning **Financial Data Analytics**
+- 🌱 Currently learning **Financial Data Analytics**
 
 - 📫 How to reach me **aldrichsierra03@gmail.com**
 
