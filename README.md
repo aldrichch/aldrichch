@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aldrichsierra03@gmail.com**
 
-- 📄 Know about my experiences [https://aldrichch.github.io/portfolio/](https://aldrichch.github.io/resume/)
+- 📄 Know about my experiences [CV](https://aldrichch.github.io/resume/)
 
 - ⚡ Fun fact **I can't drive car**
 
