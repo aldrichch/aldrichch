@@ -21,3 +21,23 @@
 - **Environmental, social, and governance performance and corporate dividend strategies: Global evidence and managerial insights**  
   *Global Finance Journal*, Elsevier, Jun 2026  
   [Read publication]([https://doi.org/xxxx](https://www.sciencedirect.com/science/article/abs/pii/S1044028326000712#abstracts))
+
+
+
+
+<table>
+  <tr>
+    <td width="200">
+      <img src="images/paper-cover.png" width="180" />
+    </td>
+    <td>
+      <h3>📄 Judul Publikasi Kamu</h3>
+      <p>
+        <i>Nama Jurnal</i> (Elsevier), 2025
+      </p>
+      <p>
+        🔗 <a href="https://doi.org/xxxxx">Read Publication</a>
+      </p>
+    </td>
+  </tr>
+</table>
