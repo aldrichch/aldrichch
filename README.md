@@ -6,7 +6,7 @@
 
 - 💻 I am currently working as a **research assistant** on 🌱 **sustainable finance and management**
 
-- 🌱 Currently learning **Fullstack AI engineer for GenAI**
+- 🌱 Currently also learning **Fullstack AI engineer for GenAI**
 
 - 📫 How to reach me **aldrichsierra03@gmail.com**
 
