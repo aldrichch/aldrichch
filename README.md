@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrichch&label=Profile%20views&color=0e75b6&style=flat" alt="aldrichch" /> </p>
 
-- 🔭 I’m currently working on **ESG and Sustainable Finance** academic research
+- 🔭 I’m currently working as a **research assistant** on 🌱 **sustainable finance and management**
 
-- 🌱 Currently learning **Financial Data Analytics**
+- 🌱 Currently learning **Fullstack AI engineer for GenAI**
 
 - 📫 How to reach me **aldrichsierra03@gmail.com**
 
-- 📄 Know about my experiences [CV](https://aldrichch.github.io/resume/)
-
-- ⚡ Fun fact **I can't drive car**
+- 📄 Know about my experiences [LinkedIn]([https://aldrichch.github.io/resume/](https://www.linkedin.com/in/aldrichalfa/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
