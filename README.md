@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrichch&label=Profile%20views&color=0e75b6&style=flat" alt="aldrichch" /> </p>
 
-<h3>⭐ Highlights</h3>
+<h3>⭐ Highlight</h3>
 
 - 💼 I am currently working as a **research assistant** on 🌱 **sustainable finance and management**
 
@@ -14,7 +14,17 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/aldrichalfa/)
 
-<h3>🛠️ Skills</h3>
+<h3>🎓 Education</h3>
+
+- National Taipei University, Taiwan
+
+  MBA in Finance (3.80/4.00)
+
+- Universitas Brawijaya, Indonesia
+
+  BBA (3.06/4.00)
+
+## 🛠️ Skill
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -39,13 +49,13 @@
 
 </p>
 
-## 🔬 Academic publications
+## 🔬 Academic publication
 
 - [**Environmental, social, and governance performance and corporate dividend strategies: Global evidence and managerial insights**](https://www.sciencedirect.com/science/article/abs/pii/S1044028326000712#abstracts)  *Global Finance Journal* (2026)
 - [**Unpacking Corporate Slack: How Excess Resources Shape Earnings Management**](https://journals.sagepub.com/doi/10.1177/23409444261416938) *BRQ Business Research Quarterly* (2026)
 - [**Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking**](https://link.springer.com/article/10.1007/s12197-025-09740-y) *Journal of Economics and Finance* (2026)
  
-## 🎉 Certificates
+## 🎉 Certificate
 
 <table border="0">
   <tr>
