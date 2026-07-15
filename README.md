@@ -47,16 +47,15 @@
  
 ## 🎉 Certificates
 
-<table>
+<table border="0">
   <tr>
-    <td width="200">
-      <img src="images/paper-cover.png" width="180" />
+    <td width="100" style="border: none;">
+      <img src="images/bnsp.png" width="100" />
     </td>
-    <td>
-      <h3>📄 Associate Data Scientist</h3>
+    <td style="border: none;">
+      <h3> Associate Data Scientist</h3>
       <p>
         <i>Indonesian Professional Certification Authority</i>, 2023 - 2026
-      </p>
       </p>
     </td>
   </tr>
