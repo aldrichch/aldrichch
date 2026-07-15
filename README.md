@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **aldrichsierra03@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn]([https://www.linkedin.com/in/aldrichalfa/])
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/aldrichalfa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
