@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrichch&label=Profile%20views&color=0e75b6&style=flat" alt="aldrichch" /> </p>
 
-- 🔭 I am currently working as a **research assistant** on 🌱 **sustainable finance and management**
+- 💻 I am currently working as a **research assistant** on 🌱 **sustainable finance and management**
 
 - 🌱 Currently learning **Fullstack AI engineer for GenAI**
 
