@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrichch&label=Profile%20views&color=0e75b6&style=flat" alt="aldrichch" /> </p>
 
+<h3>⭐ Highlights</h3>
+
 - 💼 I am currently working as a **research assistant** on 🌱 **sustainable finance and management**
 
 - 💻 Also learning **Fullstack AI engineer for GenAI**
@@ -12,7 +14,7 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/aldrichalfa/)
 
-## 📚 Skills
+<h3>📚 Skills</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
