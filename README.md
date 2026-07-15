@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/aldrichalfa/)
 
-<h3>📚 Skills</h3>
+<h3>🛠️ Skills</h3>
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -45,9 +45,22 @@
 - [**Unpacking Corporate Slack: How Excess Resources Shape Earnings Management**](https://journals.sagepub.com/doi/10.1177/23409444261416938) *BRQ Business Research Quarterly* (2026)
 - [**Repay a Favor? Evidence from Co-opted Boards and Corporate Risk-Taking**](https://link.springer.com/article/10.1007/s12197-025-09740-y) *Journal of Economics and Finance* (2026)
  
+## 🎉 Certificates
 
-
-
+<table>
+  <tr>
+    <td width="200">
+      <img src="images/paper-cover.png" width="180" />
+    </td>
+    <td>
+      <h3>📄 Associate Data Scientist</h3>
+      <p>
+        <i>Indonesian Professional Certification Authority</i>, 2023 - 2026
+      </p>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
